@@ -1,0 +1,27 @@
+Problem statement: Create a list, uses the user's input to output something
+-----------------------------------
+
+if (input=1){
+
+} elif (input=2){
+
+} elif (......
+
+//try enumerating
+
+-----------------------------------
+
+switch(input)
+input=1:print();
+input=2:print();
+
+----------------------------------
+
+while (i = 1) {
+             print ("yes");
+              }
+             
+----------------------------------
+
+>use a while loop to print number of prime numbers
+>use two different files to call a class
