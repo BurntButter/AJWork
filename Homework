@@ -24,4 +24,22 @@ while (i = 1) {
 ----------------------------------
 
 >use a while loop to print number of prime numbers
+
+n=5; //number of prime numbers you want
+p=1; //the previous prime number you got
+i=0; //number of prime numbers you've found
+c=2; //the current number being tested as prime
+
+while n >= i {
+  c == p+1;
+  while isPrime(int c) == false {
+    c++;
+  }
+  print (c);
+  i++;
+  p == c;
+}
+
+----------------------------------
+
 >use two different files to call a class
